@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md#Результат)    
-[6. Выводы](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md#Выводы) 
+[1. Описание проекта](README.md#Описание-проекта)  
+[2. Какой кейс решаем?](README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](README.md#Этапы-работы-над-проектом)  
+[5. Результат](README.md#Результаты)    
+[6. Выводы](README.md#Выводы)
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md)
+:arrow_up:[к оглавлению](README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,7 +31,7 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -39,19 +39,19 @@
 Вторым шагом - была продумана основа алгоритма: угадывание происходит за счет метода библиотеки Numpy (np.random.randint)
 Третьим шагом - реализация алгоритма на языке Python
 
-:arrow_up:[к оглавлению](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](README.md#Оглавление)
 
 
 ### Результаты:  
 В результате реализации алгоритма, была достигнута поставленная задача и алгоритм угадывает число в среднем за 100 попыток
 
-:arrow_up:[к оглавлению](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](README.md#Оглавление)
 
 
 ### Выводы:  
 В результате реализации алгоритма все выше описанные условия соблюдены
 
-:arrow_up:[к оглавлению](https://github.com/rombes/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
